@@ -548,6 +548,11 @@ export const extraRpcs = {
         tracking: "limited",
         trackingDetails: privacyStatement.dwellir,
       },
+      {
+        url: "https://rpc.relaynow.co",
+        tracking: "yes",
+        trackingDetails: "No privacy policy available",
+      },
     ],
   },
   2: {
